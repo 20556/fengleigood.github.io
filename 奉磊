@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>自我介绍</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: square;
+        }
+    </style>
+</head>
+<body>
+    <h1>自我介绍</h1>
+    <p>大家好，我叫 <strong>奉磊</strong>，是一名软件工程师。</p>
+    <p>我目前在 <strong>某科技公司</strong> 工作，专注于前端开发。以下是我的一些基本信息：</p>
+    <ul>
+        <li>年龄：22岁</li>
+        <li>学历：计算机科学学士</li>
+        <li>兴趣：编程、读书、旅行</li>
+    </ul>
+    <p>我热爱我的工作，并希望能在技术领域不断进步。如果您有任何问题，请随时问我！</p>
+</body>
+</html>
+
